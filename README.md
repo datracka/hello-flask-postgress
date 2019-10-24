@@ -3,7 +3,8 @@
 ## to run it
 
 - `"pipenv install"` (do you have pipenv right?)
-- Create a postgress database named `"hello_flask_postgress"`
+- Rename `.env.sample` to `.env`
+- Create a postgress database named `"hello_flask_postgres"`
 - `"flask db migrate"` & `"flask db upgrade"`
 - `"flask run"`
 - enjoy!
